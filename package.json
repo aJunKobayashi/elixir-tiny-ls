@@ -37,6 +37,6 @@
     ]
   },
   "extensionDependencies": [
-    "mjmcloug.vscode-elixir"
+    "jakebecker.elixir-ls"
   ]
 }

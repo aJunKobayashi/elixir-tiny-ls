@@ -11,7 +11,7 @@ ElixirTinyLS is a VS Code extension providing additional Elixir language support
 
 ## Requirements
 
-- [vscode-elixir](https://github.com/fr1zle/vscode-elixir)
+- [vscode-elixir-ls](https://github.com/JakeBecker/vscode-elixir-ls)
 
 ## Extension Settings
 
